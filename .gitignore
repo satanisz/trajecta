@@ -1,0 +1,22 @@
+# Downloaded publications and private source extracts stay local.
+/publications/files/**
+!/publications/files/**/
+!/publications/files/**/.gitkeep
+/local/
+/data/
+/outputs/
+*.pdf
+*.epub
+*.mobi
+
+# Python and development environments
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+*.egg-info/
+build/
+dist/
+.env
+.env.*
+!.env.example
