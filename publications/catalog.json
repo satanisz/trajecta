@@ -1,0 +1,1274 @@
+{
+  "schema_version": 1,
+  "source": {
+    "chat_title": "Pragma i Master Equation",
+    "chat_url": "https://chatgpt.com/c/6adbd379-a11c-83ed-bf4a-88674093e315",
+    "accessed": "2026-10-25",
+    "scope": "Wszystkie nazwane publikacje oraz odrębna praca podlinkowana pod błędną etykietą GFlowNets. Serwisy danych i firmy są opisane oddzielnie."
+  },
+  "publications": [
+    {
+      "id": "pragma",
+      "title": "PRAGMA: Revolut Foundation Model",
+      "year": 2026,
+      "category": "process-and-temporal-models",
+      "source_url": "https://arxiv.org/abs/2604.08649",
+      "summary_pl": "Hierarchiczna reprezentacja zdarzeń key–value–time; punkt odniesienia dla tokenizacji stanów i historii.",
+      "download_urls": [
+        "https://arxiv.org/pdf/2604.08649"
+      ],
+      "verification": "fulltext_title_verified",
+      "notes": [],
+      "authors": [
+        "Ostroukhov, Maxim",
+        "Mikhailov, Ruslan",
+        "Iashin, Vladimir",
+        "Sokolov, Artem",
+        "Akshonov, Andrei",
+        "Protasov, Vitaly",
+        "Goncharov, Andrey",
+        "Beloborodov, Dmitrii",
+        "Mullin, Vince",
+        "Enzmann, Roman Yokunda",
+        "Kolovos, Georgios",
+        "Renders, Jason",
+        "Nesterov, Pavel",
+        "Repushko, Anton"
+      ],
+      "snapshot": {
+        "checked_at": "2026-10-25",
+        "status": "pdf",
+        "path": "publications/files/process-and-temporal-models/pragma.pdf",
+        "pages": 20,
+        "bytes": 527632,
+        "sha256": "22f38367d2fe7e745a4e4d4003f7f523a9c29122dac1d0ff87370dc0703a2df1",
+        "download_url": "https://arxiv.org/pdf/2604.08649"
+      }
+    },
+    {
+      "id": "neural-mjp",
+      "title": "Neural Markov Jump Processes",
+      "year": 2023,
+      "category": "markov-and-master-equation",
+      "source_url": "https://proceedings.mlr.press/v202/seifner23a.html",
+      "summary_pl": "Neuronowa inferencja procesów skokowych; punkt odniesienia dla uczenia intensywności i modelu obserwacji.",
+      "download_urls": [
+        "https://proceedings.mlr.press/v202/seifner23a/seifner23a.pdf"
+      ],
+      "verification": "fulltext_title_verified",
+      "notes": [],
+      "authors": [
+        "Patrick Seifner",
+        "Ramses J Sanchez"
+      ],
+      "snapshot": {
+        "checked_at": "2026-10-25",
+        "status": "pdf",
+        "path": "publications/files/markov-and-master-equation/neural-mjp.pdf",
+        "pages": 30,
+        "bytes": 1778722,
+        "sha256": "02f9e414495593136beb625e8c987421cff6961c444257c0be9c9a36d51c8f51",
+        "download_url": "https://proceedings.mlr.press/v202/seifner23a/seifner23a.pdf"
+      }
+    },
+    {
+      "id": "foundation-mjp",
+      "title": "Foundation Inference Models for Markov Jump Processes",
+      "year": 2024,
+      "category": "markov-and-master-equation",
+      "source_url": "https://arxiv.org/abs/2406.06419",
+      "summary_pl": "Inferencja generatorów na podstawie zaszumionych obserwacji; istotna dla transferu między przestrzeniami stanów.",
+      "download_urls": [
+        "https://arxiv.org/pdf/2406.06419"
+      ],
+      "verification": "fulltext_title_verified",
+      "notes": [
+        "Rok odnosi się do pierwszej publikacji preprintu (2024); pobrano aktualną rewizję arXiv, nie zamrożoną wersję v1."
+      ],
+      "authors": [
+        "Berghaus, David",
+        "Cvejoski, Kostadin",
+        "Seifner, Patrick",
+        "Ojeda, Cesar",
+        "Sanchez, Ramses J."
+      ],
+      "snapshot": {
+        "checked_at": "2026-10-25",
+        "status": "pdf",
+        "path": "publications/files/markov-and-master-equation/foundation-mjp.pdf",
+        "pages": 36,
+        "bytes": 2160982,
+        "sha256": "d1409c688a739573feb1ed7e21ee0abd684b5f82947d01945d546c5588592d1e",
+        "download_url": "https://arxiv.org/pdf/2406.06419"
+      }
+    },
+    {
+      "id": "dyrep",
+      "title": "Dyrep: Learning Representations over Dynamic Graphs.",
+      "year": 2019,
+      "category": "process-and-temporal-models",
+      "source_url": "https://research.google/pubs/dyrep-learning-representations-over-dynamic-graphs/",
+      "summary_pl": "Wspólne modelowanie zmian topologii i interakcji przez procesy punktowe.",
+      "download_urls": [
+        "https://openreview.net/references/pdf?id=SJiOMX0BE",
+        "https://storage.googleapis.com/gweb-research2023-media/pubtools/6186.pdf"
+      ],
+      "verification": "fulltext_title_verified",
+      "notes": [],
+      "authors": [
+        "Rakshit Trivedi",
+        "Mehrdad Farajtabar",
+        "Prasenjeet Biswal",
+        "Hongyuan Zha"
+      ],
+      "snapshot": {
+        "checked_at": "2026-10-25",
+        "status": "pdf",
+        "path": "publications/files/process-and-temporal-models/dyrep.pdf",
+        "pages": 25,
+        "bytes": 1978162,
+        "sha256": "b9e5ee905288feaa1ab72307a9ca9e10f83242098c362b7d27a836ccbe96d4e6",
+        "download_url": "https://openreview.net/references/pdf?id=SJiOMX0BE"
+      }
+    },
+    {
+      "id": "nri",
+      "title": "Neural Relational Inference for Interacting Systems",
+      "year": 2018,
+      "category": "process-and-temporal-models",
+      "source_url": "https://proceedings.mlr.press/v80/kipf18a.html",
+      "summary_pl": "Uczenie ukrytych relacji i dynamiki; konkurent dla odzyskiwania grafu z obserwacji.",
+      "download_urls": [
+        "https://proceedings.mlr.press/v80/kipf18a/kipf18a.pdf"
+      ],
+      "verification": "fulltext_title_verified",
+      "notes": [],
+      "authors": [
+        "Thomas Kipf",
+        "Ethan Fetaya",
+        "Kuan-Chieh Wang",
+        "Max Welling",
+        "Richard Zemel"
+      ],
+      "snapshot": {
+        "checked_at": "2026-10-25",
+        "status": "pdf",
+        "path": "publications/files/process-and-temporal-models/nri.pdf",
+        "pages": 10,
+        "bytes": 2064181,
+        "sha256": "4638a8b9e66e21cde97ad6b3f801acc2041abff96d7649270a57e6e11ab76ebb",
+        "download_url": "https://proceedings.mlr.press/v80/kipf18a/kipf18a.pdf"
+      }
+    },
+    {
+      "id": "tgn",
+      "title": "Temporal Graph Networks for Deep Learning on Dynamic Graphs",
+      "year": 2020,
+      "category": "process-and-temporal-models",
+      "source_url": "https://arxiv.org/abs/2006.10637",
+      "summary_pl": "Pamięć węzłów i reprezentacja strumienia zdarzeń; baseline grafu temporalnego.",
+      "download_urls": [
+        "https://arxiv.org/pdf/2006.10637"
+      ],
+      "verification": "fulltext_title_verified",
+      "notes": [],
+      "authors": [
+        "Rossi, Emanuele",
+        "Chamberlain, Ben",
+        "Frasca, Fabrizio",
+        "Eynard, Davide",
+        "Monti, Federico",
+        "Bronstein, Michael"
+      ],
+      "snapshot": {
+        "checked_at": "2026-10-25",
+        "status": "pdf",
+        "path": "publications/files/process-and-temporal-models/tgn.pdf",
+        "pages": 16,
+        "bytes": 770389,
+        "sha256": "580113858f363b80388bbf7c1b2a42482cfb9b6debdb3db2cdde8cb6db8166c0",
+        "download_url": "https://arxiv.org/pdf/2006.10637"
+      }
+    },
+    {
+      "id": "tides",
+      "title": "Disentangling Dynamics: A Compositional Framework for Temporal Graph Foundation Models",
+      "year": 2026,
+      "category": "process-and-temporal-models",
+      "source_url": "https://eic-emerge.eu/resources/publications-details/disentangling-dynamics-a-compositional-framework-for-temporal-graph-foundation-models",
+      "summary_pl": "TIDES rozdziela reprezentację czasu i struktury; punkt odniesienia dla generalizacji na nowe grafy.",
+      "download_urls": [
+        "https://openreview.net/pdf?id=tU97TXAp9x"
+      ],
+      "verification": "landing_page_verified",
+      "notes": [
+        "EIC EMERGE podaje ICML 2026, natomiast opis repozytorium autorów wskazuje GFM Workshop @ ICML 2026. Nie potwierdzono publikacji w głównym tracku; zachowano rozbieżność."
+      ],
+      "snapshot": {
+        "checked_at": "2026-10-25",
+        "status": "unavailable",
+        "reason": "PDF OpenReview zwracał blokadę dostępu/CAPTCHA; zachowano rekord i odnośnik. Brak lokalnego pełnego tekstu."
+      }
+    },
+    {
+      "id": "trajectory-balance",
+      "title": "Trajectory balance: Improved credit assignment in GFlowNets",
+      "year": 2022,
+      "category": "markov-and-master-equation",
+      "source_url": "https://arxiv.org/abs/2201.13259",
+      "summary_pl": "Cel uczenia całych trajektorii GFlowNet. Nie jest równoważny ciągłoczasowemu TTA.",
+      "download_urls": [
+        "https://arxiv.org/pdf/2201.13259"
+      ],
+      "verification": "fulltext_title_verified",
+      "notes": [
+        "W czacie wskazano pracę z 2022 jako Malkin et al. Katalog zachowuje listę autorów z aktualnego rekordu arXiv i pobranej wersji."
+      ],
+      "authors": [
+        "Whitammer, Esmeralda S.",
+        "Jain, Moksh",
+        "Bengio, Emmanuel",
+        "Sun, Chen",
+        "Bengio, Yoshua"
+      ],
+      "doi": "10.52202/068431-0431",
+      "snapshot": {
+        "checked_at": "2026-10-25",
+        "status": "pdf",
+        "path": "publications/files/markov-and-master-equation/trajectory-balance.pdf",
+        "pages": 18,
+        "bytes": 1336717,
+        "sha256": "9ec163c22df6f6fa5b4951bb0fbbd2d5f122f0a55d804dabb415d0c51c68ddb5",
+        "download_url": "https://arxiv.org/pdf/2201.13259"
+      }
+    },
+    {
+      "id": "gflownet-training",
+      "title": "Towards Understanding and Improving GFlowNet Training",
+      "year": 2023,
+      "category": "markov-and-master-equation",
+      "source_url": "https://proceedings.mlr.press/v202/shen23a.html",
+      "summary_pl": "Dodatkowa publikacja rzeczywiście podlinkowana w czacie pod etykietą GFlowNets — Trajectory Balance.",
+      "download_urls": [
+        "https://proceedings.mlr.press/v202/shen23a/shen23a.pdf"
+      ],
+      "verification": "fulltext_title_verified",
+      "notes": [
+        "W czacie podpisane jako GFlowNets — Trajectory Balance (ICML 2023); adres wskazuje Shen et al., nie Malkin et al. 2022. Zachowano obie odrębne prace."
+      ],
+      "authors": [
+        "Max W Shen",
+        "Emmanuel Bengio",
+        "Ehsan Hajiramezanali",
+        "Andreas Loukas",
+        "Kyunghyun Cho",
+        "Tommaso Biancalani"
+      ],
+      "snapshot": {
+        "checked_at": "2026-10-25",
+        "status": "pdf",
+        "path": "publications/files/markov-and-master-equation/gflownet-training.pdf",
+        "pages": 20,
+        "bytes": 2552264,
+        "sha256": "5d1db8e92a0a8cc78e3b5f2870e891c3ba0a2d1c6d77b9c3461fce706afc7731",
+        "download_url": "https://proceedings.mlr.press/v202/shen23a/shen23a.pdf"
+      }
+    },
+    {
+      "id": "dg-gen",
+      "title": "A Deep Probabilistic Framework for Continuous Time Dynamic Graph Generation",
+      "year": 2025,
+      "category": "process-and-temporal-models",
+      "source_url": "https://ojs.aaai.org/index.php/AAAI/article/view/33896",
+      "summary_pl": "Generowanie grafów dynamicznych i zdarzeń; alternatywny model generatywny.",
+      "download_urls": [
+        "https://ojs.aaai.org/index.php/AAAI/article/view/33896/36051"
+      ],
+      "verification": "fulltext_title_verified",
+      "notes": [],
+      "snapshot": {
+        "checked_at": "2026-10-25",
+        "status": "pdf",
+        "path": "publications/files/process-and-temporal-models/dg-gen.pdf",
+        "pages": 9,
+        "bytes": 348869,
+        "sha256": "5ed06e6a8e005c5e3dac3428c96737ce9d1a9fc036d90087e88428623a5fc06f",
+        "download_url": "https://ojs.aaai.org/index.php/AAAI/article/download/33896/36051"
+      }
+    },
+    {
+      "id": "transformer-dynamics",
+      "title": "Learning stochastic dynamics and predicting emergent behavior using transformers",
+      "year": 2024,
+      "category": "markov-and-master-equation",
+      "source_url": "https://www.nature.com/articles/s41467-024-45629-w",
+      "summary_pl": "Uczenie dynamiki stochastycznej z trajektorii; porównanie z narzucaniem generatora Markowa.",
+      "download_urls": [
+        "https://arxiv.org/pdf/2202.08708"
+      ],
+      "verification": "fulltext_title_verified",
+      "notes": [
+        "Publikacja czasopismowa z 2024; pobrano odpowiadający jej preprint arXiv 2202.08708."
+      ],
+      "snapshot": {
+        "checked_at": "2026-10-25",
+        "status": "pdf",
+        "path": "publications/files/markov-and-master-equation/transformer-dynamics.pdf",
+        "pages": 12,
+        "bytes": 3127476,
+        "sha256": "4e31a8da13c62d26fe7a7eefdf72bc91f17ba2e4c89bb795b806099b3f602b94",
+        "download_url": "https://arxiv.org/pdf/2202.08708"
+      }
+    },
+    {
+      "id": "production-gnn",
+      "title": "Learning Production Functions for Supply Chains with Graph Neural Networks",
+      "year": 2025,
+      "category": "economics-and-applications",
+      "source_url": "https://ojs.aaai.org/index.php/AAAI/article/view/35004",
+      "summary_pl": "Uczenie funkcji produkcji i zapasów; powiązany benchmark SupplySim.",
+      "download_urls": [
+        "https://ojs.aaai.org/index.php/AAAI/article/view/35004/37159"
+      ],
+      "verification": "fulltext_title_verified",
+      "notes": [],
+      "snapshot": {
+        "checked_at": "2026-10-25",
+        "status": "pdf",
+        "path": "publications/files/economics-and-applications/production-gnn.pdf",
+        "pages": 9,
+        "bytes": 550766,
+        "sha256": "ed000e025efeee93b0e069fbe2be204a3bbd5d95fba6bd469f9e80fdf91f3008",
+        "download_url": "https://ojs.aaai.org/index.php/AAAI/article/download/35004/37159"
+      }
+    },
+    {
+      "id": "causal-process",
+      "title": "Causal Process Models: Reframing Dynamic Causal Graph Discovery as a Reinforcement Learning Problem",
+      "year": 2026,
+      "category": "process-and-temporal-models",
+      "source_url": "https://proceedings.mlr.press/v323/orujlu26a.html",
+      "summary_pl": "Odkrywanie dynamicznych grafów przyczynowych jako problem RL; osobny kierunek względem inferencji CTMC.",
+      "download_urls": [
+        "https://raw.githubusercontent.com/mlresearch/v323/main/assets/orujlu26a/orujlu26a.pdf"
+      ],
+      "verification": "fulltext_title_verified",
+      "notes": [],
+      "authors": [
+        "Turan Orujlu",
+        "Christian Gumbsch",
+        "Martin V. Butz",
+        "Charley M Wu"
+      ],
+      "snapshot": {
+        "checked_at": "2026-10-25",
+        "status": "pdf",
+        "path": "publications/files/process-and-temporal-models/causal-process.pdf",
+        "pages": 31,
+        "bytes": 4173904,
+        "sha256": "36abcf4f944d539c0dc7c783a08f732d46c87aa91253ac41f72ae1377281dfc2",
+        "download_url": "https://raw.githubusercontent.com/mlresearch/v323/main/assets/orujlu26a/orujlu26a.pdf"
+      }
+    },
+    {
+      "id": "event-foundation",
+      "title": "Foundation Models for Event Prediction Across Heterogeneous Event Logs",
+      "year": 2026,
+      "category": "process-and-temporal-models",
+      "source_url": "https://arxiv.org/abs/2610.17503",
+      "summary_pl": "Foundation Event Predictor: predykcja zdarzeń i generalizacja między logami; preprint.",
+      "download_urls": [
+        "https://arxiv.org/pdf/2610.17503"
+      ],
+      "verification": "fulltext_title_verified",
+      "notes": [
+        "Preprint z października 2026; wpis nie oznacza potwierdzenia recenzji konferencyjnej."
+      ],
+      "authors": [
+        "Spaeh, Fabian",
+        "Jaffe, Sean",
+        "Zhe, Shandian",
+        "Shen, Bin"
+      ],
+      "snapshot": {
+        "checked_at": "2026-10-25",
+        "status": "pdf",
+        "path": "publications/files/process-and-temporal-models/event-foundation.pdf",
+        "pages": 25,
+        "bytes": 888534,
+        "sha256": "556e5b92db0844e7585d4eb794b004d975cafe02985f1f8df319c1039b332bcb",
+        "download_url": "https://arxiv.org/pdf/2610.17503"
+      }
+    },
+    {
+      "id": "global-trade-gnn",
+      "title": "Global trade network prediction based on spatiotemporal graph neural network and gradient boosting model",
+      "year": 2026,
+      "category": "economics-and-applications",
+      "source_url": "https://www.nature.com/articles/s41598-026-72209-3",
+      "summary_pl": "Grafowy model predykcji handlu; punkt odniesienia dla zastosowania gospodarczego.",
+      "download_urls": [
+        "https://www.nature.com/articles/s41598-026-72209-3_reference.pdf"
+      ],
+      "verification": "fulltext_title_verified",
+      "notes": [
+        "Pobrano wersję Article in Press od wydawcy. Wyników autorów nie replikowano."
+      ],
+      "snapshot": {
+        "checked_at": "2026-10-25",
+        "status": "pdf",
+        "path": "publications/files/economics-and-applications/global-trade-gnn.pdf",
+        "pages": 18,
+        "bytes": 2625421,
+        "sha256": "649b30c1f36bfbec2b72c9c69e08fdbf760af721f032bfb6e009111454156388",
+        "download_url": "https://www.nature.com/articles/s41598-026-72209-3_reference.pdf"
+      }
+    },
+    {
+      "id": "network-origins",
+      "title": "The Network Origins of Aggregate Fluctuations",
+      "year": 2012,
+      "category": "economics-and-applications",
+      "source_url": "https://doi.org/10.3982/ECTA9623",
+      "summary_pl": "Teoria zależności między strukturą sieci produkcyjnej a agregacją szoków.",
+      "download_urls": [
+        "https://economics.mit.edu/sites/default/files/publications/The%20Network%20Origins%20of%20Aggregate%20Fluctuations.pdf"
+      ],
+      "verification": "fulltext_title_verified",
+      "notes": [],
+      "snapshot": {
+        "checked_at": "2026-10-25",
+        "status": "pdf",
+        "path": "publications/files/economics-and-applications/network-origins.pdf",
+        "pages": 41,
+        "bytes": 797182,
+        "sha256": "26e7df4e7d350f2650b134e5291e9df17b32fbd3654c1e04eabb78c727480ca4",
+        "download_url": "https://economics.mit.edu/sites/default/files/publications/The%20Network%20Origins%20of%20Aggregate%20Fluctuations.pdf"
+      }
+    },
+    {
+      "id": "oecd-shocks",
+      "title": "Shocks in a highly interlinked global economy",
+      "year": 2024,
+      "category": "economics-and-applications",
+      "source_url": "https://www.oecd.org/en/publications/shocks-in-a-highly-interlinked-global-economy_4a2f0127-en.html",
+      "summary_pl": "Powiązania gospodarcze, ekspozycja na szoki i mechanizmy dostosowań.",
+      "download_urls": [
+        "https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/06/shocks-in-a-highly-interlinked-global-economy_e10fdec7/4a2f0127-en.pdf"
+      ],
+      "verification": "fulltext_title_verified",
+      "notes": [],
+      "snapshot": {
+        "checked_at": "2026-10-25",
+        "status": "pdf",
+        "path": "publications/files/economics-and-applications/oecd-shocks.pdf",
+        "pages": 59,
+        "bytes": 4866366,
+        "sha256": "3e0f7fa813f0b8a6b733a362fb9dfe4863a26fe157f9de9e6b12eb82559e1051",
+        "download_url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/06/shocks-in-a-highly-interlinked-global-economy_e10fdec7/4a2f0127-en.pdf"
+      }
+    },
+    {
+      "id": "pandemic-shocks",
+      "title": "Forecasting the propagation of pandemic shocks with a dynamic input-output model",
+      "year": 2022,
+      "category": "economics-and-applications",
+      "source_url": "https://www.sciencedirect.com/science/article/pii/S0165188922002317",
+      "summary_pl": "Dynamiczny model input-output; konkurent dla propagacji z zapasami i produkcją.",
+      "download_urls": [
+        "https://www.iris.santannapisa.it/retrieve/b90e3162-a61e-4186-924d-df1a221ca5fe/forecasting_pandemic.pdf",
+        "https://discovery.ucl.ac.uk/id/eprint/10218120/1/Forecasting%20the%20propagation%20of%20pandemic%20shocks%20with%20a%20dynamic%20input-output%20model.pdf"
+      ],
+      "verification": "fulltext_title_verified",
+      "notes": [],
+      "snapshot": {
+        "checked_at": "2026-10-25",
+        "status": "pdf",
+        "path": "publications/files/economics-and-applications/pandemic-shocks.pdf",
+        "pages": 35,
+        "bytes": 3865446,
+        "sha256": "1be00b590a374c50607caccc4cf819b1fa912f2006ab69eb6321c9ea97c45750",
+        "download_url": "https://discovery.ucl.ac.uk/id/eprint/10218120/1/Forecasting%20the%20propagation%20of%20pandemic%20shocks%20with%20a%20dynamic%20input-output%20model.pdf"
+      }
+    },
+    {
+      "id": "imf-seaborne",
+      "title": "World Seaborne Trade in Real Time: A Proof of Concept for Building AIS-based Nowcasts from Scratch",
+      "year": 2020,
+      "category": "economics-and-applications",
+      "source_url": "https://www.imf.org/en/publications/wp/issues/2020/05/14/world-seaborne-trade-in-real-time-a-proof-of-concept-for-building-ais-based-nowcasts-from-49393",
+      "summary_pl": "Metodyka rekonstrukcji podróży i handlu z danych AIS.",
+      "download_urls": [
+        "https://www.imf.org/-/media/files/publications/wp/2020/english/wpiea2020057-print-pdf.pdf"
+      ],
+      "verification": "fulltext_title_verified",
+      "notes": [],
+      "snapshot": {
+        "checked_at": "2026-10-25",
+        "status": "pdf",
+        "path": "publications/files/economics-and-applications/imf-seaborne.pdf",
+        "pages": 44,
+        "bytes": 938760,
+        "sha256": "7f85958d52826ba6148b9cbe0a45669ceee85139d54b0a87a6a423602f266c51",
+        "download_url": "https://www.imf.org/-/media/files/publications/wp/2020/english/wpiea2020057-print-pdf.pdf"
+      }
+    },
+    {
+      "id": "imf-space",
+      "title": "Nowcasting Global Trade from Space",
+      "year": 2025,
+      "category": "economics-and-applications",
+      "source_url": "https://www.imf.org/en/publications/wp/issues/2025/05/16/nowcasting-global-trade-from-space-566957",
+      "summary_pl": "Nowcasting handlu na podstawie obserwacji ruchu statków.",
+      "download_urls": [
+        "https://www.imf.org/-/media/files/publications/wp/2025/english/wpiea2025093-print-pdf.pdf",
+        "https://www.imf.org/-/media/Files/Publications/WP/2025/English/wpiea2025093-print-pdf.ashx"
+      ],
+      "verification": "fulltext_title_verified",
+      "notes": [],
+      "snapshot": {
+        "checked_at": "2026-10-25",
+        "status": "pdf",
+        "path": "publications/files/economics-and-applications/imf-space.pdf",
+        "pages": 37,
+        "bytes": 1037138,
+        "sha256": "28ec6524760bdb266e4e605913b56b7592da7536a8e2502e0673220d18436673",
+        "download_url": "https://www.imf.org/-/media/files/publications/wp/2025/english/wpiea2025093-print-pdf.pdf"
+      }
+    },
+    {
+      "id": "oecd-products",
+      "title": "Monitoring global trade by products, using big data",
+      "year": 2026,
+      "category": "economics-and-applications",
+      "source_url": "https://www.oecd.org/en/publications/monitoring-global-trade-by-products-using-big-data_e0447f00-en.html",
+      "summary_pl": "Mapowanie transportu na grupy towarowe i ograniczenia obserwowalności ładunków.",
+      "download_urls": [
+        "https://www.oecd.org/content/dam/oecd/en/publications/reports/2026/05/monitoring-global-trade-by-products-using-big-data_56f2bf58/e0447f00-en.pdf"
+      ],
+      "verification": "fulltext_title_verified",
+      "notes": [],
+      "snapshot": {
+        "checked_at": "2026-10-25",
+        "status": "pdf",
+        "path": "publications/files/economics-and-applications/oecd-products.pdf",
+        "pages": 67,
+        "bytes": 3819662,
+        "sha256": "2882f920f2532c62477001498350ea50c20d6d087e538eeb9a14e04a0ede5055",
+        "download_url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2026/05/monitoring-global-trade-by-products-using-big-data_56f2bf58/e0447f00-en.pdf"
+      }
+    },
+    {
+      "id": "production-primer",
+      "title": "Production Networks: A Primer",
+      "year": 2019,
+      "category": "economics-and-applications",
+      "source_url": "https://www.annualreviews.org/doi/10.1146/annurev-economics-080218-030212",
+      "summary_pl": "Wprowadzenie do sieci produkcyjnych i transmisji szoków; fundament zastosowań ekonomicznych.",
+      "download_urls": [
+        "https://vasco-m-carvalho.github.io/pdfs/ProductionNetworks.pdf"
+      ],
+      "verification": "fulltext_title_verified",
+      "notes": [
+        "Artykuł z 2019; pobrana kopia autorska jest datowana na grudzień 2018."
+      ],
+      "authors": [
+        "Vasco M. Carvalho",
+        "Alireza Tahbaz-Salehi"
+      ],
+      "snapshot": {
+        "checked_at": "2026-10-25",
+        "status": "pdf",
+        "path": "publications/files/economics-and-applications/production-primer.pdf",
+        "pages": 38,
+        "bytes": 373686,
+        "sha256": "2d2e87a6f859ef019363ed7f43886c2ec4149f149e2f0f640620f932781db73b",
+        "download_url": "https://vasco-m-carvalho.github.io/pdfs/ProductionNetworks.pdf"
+      }
+    },
+    {
+      "id": "spa",
+      "title": "Structural Path Analysis and Multiplier Decomposition within a Social Accounting Matrix Framework",
+      "year": 1984,
+      "category": "economics-and-applications",
+      "source_url": "https://ideas.repec.org/a/ecj/econjl/v94y1984i373p111-36.html",
+      "summary_pl": "Klasyczny rozkład mnożników ekonomicznych na ścieżki; niezbędne porównanie z TTA.",
+      "download_urls": [
+        "https://orbi.uliege.be/bitstream/2268/90536/1/Structural%20Path%20Analysis%20and%20Multiplier%20Decomposition%20within%20a%20Social%20Accounting%20Matrix%20Framework.pdf"
+      ],
+      "verification": "fulltext_title_verified",
+      "notes": [],
+      "snapshot": {
+        "checked_at": "2026-10-25",
+        "status": "pdf",
+        "path": "publications/files/economics-and-applications/spa.pdf",
+        "pages": 30,
+        "bytes": 3458423,
+        "sha256": "f706e1314a1b3b8ac02c0664ef61678d4bf6e04f76997f04d55925af19db7746",
+        "download_url": "https://orbi.uliege.be/bitstream/2268/90536/1/Structural%20Path%20Analysis%20and%20Multiplier%20Decomposition%20within%20a%20Social%20Accounting%20Matrix%20Framework.pdf"
+      }
+    },
+    {
+      "id": "leontief-markov",
+      "title": "Leontief Meets Markov: Sectoral Vulnerabilities Through Circular Connectivity",
+      "year": 2022,
+      "category": "economics-and-applications",
+      "source_url": "https://link.springer.com/article/10.1007/s11067-021-09551-8",
+      "summary_pl": "Związek sieci input-output z łańcuchami Markowa i czasami pierwszego przejścia.",
+      "download_urls": [
+        "https://research.gold.ac.uk/30489/1/Wirkierman2021_Article_LeontiefMeetsMarkov.pdf"
+      ],
+      "verification": "fulltext_title_verified",
+      "notes": [
+        "Publikacja online w 2021, rok tomu 2022."
+      ],
+      "snapshot": {
+        "checked_at": "2026-10-25",
+        "status": "pdf",
+        "path": "publications/files/economics-and-applications/leontief-markov.pdf",
+        "pages": 32,
+        "bytes": 10366650,
+        "sha256": "afb598cdc039a595f1d32ad822ec258f8155c895892c0ad887bb0d8e5dcb8cab",
+        "download_url": "https://research.gold.ac.uk/id/eprint/30489/1/Wirkierman2021_Article_LeontiefMeetsMarkov.pdf"
+      }
+    },
+    {
+      "id": "path-decomposition",
+      "title": "Structural path decomposition",
+      "year": 2009,
+      "category": "economics-and-applications",
+      "source_url": "https://www.sciencedirect.com/science/article/abs/pii/S0140988308001680",
+      "summary_pl": "Rozkład zmian struktury gospodarczej na wkłady ścieżek.",
+      "download_urls": [
+        "https://richardw.folk.ntnu.no/papers/Wood%2C%20Lenzen_2009_Structural%20path%20decomposition.pdf"
+      ],
+      "verification": "fulltext_title_verified",
+      "notes": [],
+      "authors": [
+        "Richard Wood",
+        "Manfred Lenzen"
+      ],
+      "snapshot": {
+        "checked_at": "2026-10-25",
+        "status": "pdf",
+        "path": "publications/files/economics-and-applications/path-decomposition.pdf",
+        "pages": 7,
+        "bytes": 213978,
+        "sha256": "056273921779823e39c36060f34e73c8a6f16c112790c82df31aa11d70193b59",
+        "download_url": "https://richardw.folk.ntnu.no/papers/Wood%2C%20Lenzen_2009_Structural%20path%20decomposition.pdf"
+      }
+    },
+    {
+      "id": "input-output-book",
+      "title": "Input-Output Analysis: Foundations and Extensions",
+      "year": 2022,
+      "category": "books",
+      "source_url": "https://www.cambridge.org/core/books/inputoutput-analysis/431D85A5E459AB078479852169EA77D7",
+      "summary_pl": "Podręcznik Miller–Blair: współczynniki techniczne, mnożniki i modele input-output.",
+      "download_urls": [],
+      "verification": "metadata_verified",
+      "notes": [
+        "Trzecie wydanie (2022). Odnośnik w czacie prowadził do spisu treści, a nie do pełnego tekstu."
+      ],
+      "authors": [
+        "Ronald E. Miller",
+        "Peter D. Blair"
+      ],
+      "snapshot": {
+        "checked_at": "2026-10-25",
+        "status": "unavailable",
+        "reason": "Nie znaleziono otwartej pełnej książki; wydawca oferuje dostęp zakupiony lub instytucjonalny."
+      }
+    },
+    {
+      "id": "data-driven-book",
+      "title": "Data-Driven Science and Engineering",
+      "year": 2022,
+      "category": "books",
+      "source_url": "https://www.databookuw.com/",
+      "summary_pl": "Brunton–Kutz: identyfikacja dynamiki, redukcja wymiaru i sterowanie.",
+      "download_urls": [],
+      "verification": "landing_page_verified",
+      "notes": [
+        "Drugie wydanie (2022). Strona autora udostępnia materiały i kod; nie znaleziono pełnej otwartej książki."
+      ],
+      "authors": [
+        "Steven L. Brunton",
+        "J. Nathan Kutz"
+      ],
+      "snapshot": {
+        "checked_at": "2026-10-25",
+        "status": "unavailable",
+        "reason": "Nie znaleziono publicznej kopii pełnego tekstu książki."
+      }
+    },
+    {
+      "id": "graph-book",
+      "title": "Graph Representation Learning",
+      "year": 2020,
+      "category": "books",
+      "source_url": "https://www.cs.mcgill.ca/~wlh/grl_book/",
+      "summary_pl": "Hamilton: reprezentacje węzłów, relacji i grafów; podstawa projektowania enkodera.",
+      "download_urls": [
+        "https://www.cs.mcgill.ca/~wlh/grl_book/files/GRL_Book.pdf"
+      ],
+      "verification": "fulltext_title_verified",
+      "notes": [
+        "Publicznie udostępniony przez autora nieedytowany draft przed publikacją, 141 stron. Nie jest to finalny skład wydawcy."
+      ],
+      "authors": [
+        "William L. Hamilton"
+      ],
+      "snapshot": {
+        "checked_at": "2026-10-25",
+        "status": "pdf",
+        "path": "publications/files/books/graph-book.pdf",
+        "pages": 141,
+        "bytes": 2530915,
+        "sha256": "bc25ed42b3cc2d5663f1f83172404bec8927e9b09546f69c1fdc914860b3955e",
+        "download_url": "https://www.cs.mcgill.ca/~wlh/grl_book/files/GRL_Book.pdf"
+      }
+    },
+    {
+      "id": "chaos-book",
+      "title": "Making Sense of Chaos: A Better Economics for a Better World",
+      "year": 2024,
+      "category": "books",
+      "source_url": "https://www.jstor.org/stable/jj.16971561",
+      "summary_pl": "Farmer: perspektywa ekonomii złożoności; kontekst projektu, nie specyfikacja algorytmu.",
+      "download_urls": [],
+      "verification": "metadata_verified",
+      "notes": [],
+      "metadata_source_url": "https://www.penguin.co.uk/books/284357/making-sense-of-chaos-by-farmer-j-doyne/9781802067934",
+      "authors": [
+        "J. Doyne Farmer"
+      ],
+      "snapshot": {
+        "checked_at": "2026-10-25",
+        "status": "unavailable",
+        "reason": "Nie znaleziono publicznej kopii pełnego tekstu książki."
+      }
+    },
+    {
+      "id": "stochastic-book",
+      "title": "Stochastic Processes in Physics and Chemistry",
+      "year": 2007,
+      "category": "books",
+      "source_url": "https://www.sciencedirect.com/book/9780444529657/stochastic-processes-in-physics-and-chemistry",
+      "summary_pl": "van Kampen: procesy stochastyczne, równanie master i przybliżenia.",
+      "download_urls": [],
+      "verification": "metadata_verified",
+      "notes": [
+        "Trzecie wydanie (2007)."
+      ],
+      "authors": [
+        "N. G. van Kampen"
+      ],
+      "snapshot": {
+        "checked_at": "2026-10-25",
+        "status": "unavailable",
+        "reason": "Nie znaleziono publicznej kopii pełnego tekstu książki."
+      }
+    },
+    {
+      "id": "sysid-book",
+      "title": "System Identification: Theory for the User",
+      "year": 1999,
+      "category": "books",
+      "source_url": "https://www.control.isy.liu.se/books/sysid/",
+      "summary_pl": "Ljung: identyfikowalność, estymacja i walidacja dynamiki.",
+      "download_urls": [],
+      "verification": "landing_page_verified",
+      "notes": [
+        "Drugie wydanie (1999). Materiały towarzyszące nie są pełnym tekstem książki."
+      ],
+      "authors": [
+        "Lennart Ljung"
+      ],
+      "snapshot": {
+        "checked_at": "2026-10-25",
+        "status": "unavailable",
+        "reason": "Nie znaleziono publicznej kopii pełnego tekstu książki."
+      }
+    },
+    {
+      "id": "causal-book",
+      "title": "Causal Inference: What If",
+      "year": 2020,
+      "category": "books",
+      "source_url": "https://miguelhernan.org/whatifbook",
+      "summary_pl": "Hernán–Robins: warunki interpretacji przyczynowej i identyfikacji efektów interwencji.",
+      "download_urls": [
+        "https://miguelhernan.org/s/hernanrobins_WhatIf_19aug26.pdf",
+        "https://miguelhernan.org/s/hernanrobins_WhatIf_2jan25.pdf"
+      ],
+      "verification": "fulltext_title_verified",
+      "notes": [
+        "Wydanie bazowe: 2020; pobrany plik zawiera aktualizację z 19 sierpnia 2026."
+      ],
+      "authors": [
+        "Miguel A. Hernán",
+        "James M. Robins"
+      ],
+      "snapshot": {
+        "checked_at": "2026-10-25",
+        "status": "pdf",
+        "path": "publications/files/books/causal-book.pdf",
+        "pages": 365,
+        "bytes": 11315465,
+        "sha256": "a1067af923e9156bb95fbe4b0d18699bd0723e9c902bdc74465cf7782820b1b5",
+        "download_url": "https://static1.squarespace.com/static/675db8b0dd37046447128f5f/t/6a86cf7ecfcb6b4ca8eea5cb/1787219838424/hernanrobins_WhatIf_19aug26.pdf"
+      }
+    },
+    {
+      "id": "forecasting-book",
+      "title": "Forecasting: Principles and Practice, the Pythonic Way",
+      "year": 2026,
+      "category": "books",
+      "source_url": "https://otexts.com/fpppy/",
+      "summary_pl": "Baseline'y prognoz i walidacja czasowa; książka internetowa.",
+      "download_urls": [],
+      "verification": "landing_page_verified",
+      "notes": [
+        "Żywa edycja internetowa; 2026 oznacza rok konsultacji. Lokalnie zapisano teksty HTML, bez kompletnego archiwum obrazów i interaktywnych zasobów."
+      ],
+      "snapshot": {
+        "checked_at": "2026-10-25",
+        "status": "html_text",
+        "path": "publications/files/books/forecasting-book/index.html",
+        "documents": 24,
+        "failed_documents": 0,
+        "manifest_sha256": "1a0017dd7f766154a925fa97adcc6245236354850aef83ba65b33c347ea6884c"
+      }
+    },
+    {
+      "id": "network-book",
+      "title": "Network Science",
+      "year": 2016,
+      "category": "books",
+      "source_url": "https://www.networksciencebook.com/",
+      "summary_pl": "Barabási: struktura, centralność i odporność sieci.",
+      "download_urls": [],
+      "verification": "landing_page_verified",
+      "notes": [
+        "Książka wydana w 2016; lokalny zapis internetowej wersji rozdziałów z 2026-10-25, bez wszystkich zasobów multimedialnych."
+      ],
+      "authors": [
+        "Albert-László Barabási"
+      ],
+      "snapshot": {
+        "checked_at": "2026-10-25",
+        "status": "html_text",
+        "path": "publications/files/books/network-book/index.html",
+        "documents": 12,
+        "failed_documents": 0,
+        "manifest_sha256": "b980f925bf1b43f20b806eb10e650fe80b44c345888c02780aa4d213e8d55f69"
+      }
+    },
+    {
+      "id": "earthquake",
+      "title": "Supply Chain Disruptions: Evidence from the Great East Japan Earthquake",
+      "year": 2021,
+      "category": "economics-and-applications",
+      "source_url": "https://www.repository.cam.ac.uk/items/abbc0ebd-b7cc-47bc-af72-b08d9b82f06c",
+      "summary_pl": "Empiryczna transmisja zaburzeń przez sieć dostaw po trzęsieniu ziemi.",
+      "download_urls": [
+        "https://www.repository.cam.ac.uk/bitstreams/3568c3a2-dafc-49cc-a220-56fe2b633a95/download"
+      ],
+      "verification": "fulltext_title_verified",
+      "notes": [
+        "Wersja opublikowana w 2021; pobrana kopia autorska jest datowana na listopad 2020."
+      ],
+      "authors": [
+        "Pereira Marques de Carvalho, Vasco",
+        "Nirei, Makoto",
+        "Saito, Yukiko",
+        "Tahbaz-Salehi, Alireza"
+      ],
+      "doi": "10.17863/CAM.61892",
+      "snapshot": {
+        "checked_at": "2026-10-25",
+        "status": "pdf",
+        "path": "publications/files/economics-and-applications/earthquake.pdf",
+        "pages": 51,
+        "bytes": 3139860,
+        "sha256": "f1461985e2e1cf4ba7de203834e73b1d28c0308b3c7dae9a15245a85289eca90",
+        "download_url": "https://api.repository.cam.ac.uk/server/api/core/bitstreams/3568c3a2-dafc-49cc-a220-56fe2b633a95/content"
+      }
+    },
+    {
+      "id": "gillespie",
+      "title": "Exact Stochastic Simulation of Coupled Chemical Reactions",
+      "year": 1977,
+      "category": "markov-and-master-equation",
+      "source_url": "https://pubs.acs.org/doi/10.1021/j100540a008",
+      "summary_pl": "Symulacja realizacji procesu skokowego; referencja do walidacji rozkładu trajektorii.",
+      "download_urls": [
+        "https://www.ma.imperial.ac.uk/~nsjones/gillespie_1977.pdf"
+      ],
+      "verification": "fulltext_title_verified",
+      "notes": [],
+      "authors": [
+        "Daniel T. Gillespie"
+      ],
+      "snapshot": {
+        "checked_at": "2026-10-25",
+        "status": "pdf",
+        "path": "publications/files/markov-and-master-equation/gillespie.pdf",
+        "pages": 22,
+        "bytes": 3386562,
+        "sha256": "c3358767c5ef2774c8f656f710e3836ced0ad098ba72d5577aa639e5ddecbc0f",
+        "download_url": "https://www.ma.imperial.ac.uk/~nsjones/gillespie_1977.pdf"
+      }
+    },
+    {
+      "id": "neural-jump-sde",
+      "title": "Neural Jump Stochastic Differential Equations",
+      "year": 2019,
+      "category": "markov-and-master-equation",
+      "source_url": "https://papers.neurips.cc/paper_files/paper/2019/hash/59b1deff341edb0b76ace57820cef237-Abstract.html",
+      "summary_pl": "Ciągła ewolucja stanu połączona z dyskretnymi skokami.",
+      "download_urls": [
+        "https://proceedings.neurips.cc/paper_files/paper/2019/file/59b1deff341edb0b76ace57820cef237-Paper.pdf",
+        "https://papers.neurips.cc/paper_files/paper/2019/file/59b1deff341edb0b76ace57820cef237-Paper.pdf"
+      ],
+      "verification": "fulltext_title_verified",
+      "notes": [],
+      "authors": [
+        "Jia, Junteng",
+        "Benson, Austin R."
+      ],
+      "snapshot": {
+        "checked_at": "2026-10-25",
+        "status": "pdf",
+        "path": "publications/files/markov-and-master-equation/neural-jump-sde.pdf",
+        "pages": 12,
+        "bytes": 2006225,
+        "sha256": "2c8bc840407e707a7756cace0b7aae34827049f1372251748e88b432b901f25f",
+        "download_url": "https://proceedings.neurips.cc/paper_files/paper/2019/file/59b1deff341edb0b76ace57820cef237-Paper.pdf"
+      }
+    },
+    {
+      "id": "period-folding",
+      "title": "Development of a Trajectory Period Folding Method for Burnup Calculations",
+      "year": 2022,
+      "category": "markov-and-master-equation",
+      "source_url": "https://www.mdpi.com/1996-1073/15/6/2245",
+      "summary_pl": "Stanisz–Oettingen–Cetnar: składanie trajektorii kolejnych okresów i kontrola bilansu.",
+      "download_urls": [
+        "https://www.mdpi.com/1996-1073/15/6/2245/pdf",
+        "https://psecommunity.org/wp-content/plugins/wpor/includes/file/2303/LAPSE-2023.14792-1v1.pdf"
+      ],
+      "verification": "fulltext_title_verified",
+      "notes": [
+        "Praca Stanisza, Oettingena i Cetnara o period folding w obliczeniach wypalania. Nie utożsamiać z uniformizacją CTMC ani z GFlowNet Trajectory Balance."
+      ],
+      "authors": [
+        "Paweł Stanisz",
+        "Mikołaj Oettingen",
+        "Jerzy Cetnar"
+      ],
+      "snapshot": {
+        "checked_at": "2026-10-25",
+        "status": "pdf",
+        "path": "publications/files/markov-and-master-equation/period-folding.pdf",
+        "pages": 15,
+        "bytes": 1148091,
+        "sha256": "2bff258f52ab1b70a7cd3694173630445a7e8e689c2fc76e7b642474f27f0693",
+        "download_url": "https://psecommunity.org/wp-content/plugins/wpor/includes/file/2303/LAPSE-2023.14792-1v1.pdf"
+      }
+    },
+    {
+      "id": "mint",
+      "title": "MiNT: Multi-Network Transfer Benchmark for Temporal Graph Learning",
+      "year": 2025,
+      "category": "process-and-temporal-models",
+      "source_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/c5548168cb7324f714365a971dfe76d1-Abstract-Datasets_and_Benchmarks_Track.html",
+      "summary_pl": "Benchmark transferu temporalnego między sieciami; wskazuje jak dzielić dane.",
+      "download_urls": [
+        "https://proceedings.neurips.cc/paper_files/paper/2025/file/c5548168cb7324f714365a971dfe76d1-Paper-Datasets_and_Benchmarks_Track.pdf"
+      ],
+      "verification": "fulltext_title_verified",
+      "notes": [],
+      "authors": [
+        "Shamsi, Kiarash",
+        "Ngo, Tran Gia Bao",
+        "Shirzadkhani, Razieh",
+        "Huang, Shenyang",
+        "Poursafaei, Farimah",
+        "Azad, Poupak",
+        "Rabbany, Reihaneh",
+        "Coskunuzer, Baris",
+        "Rabusseau, Guillaume",
+        "Akcora, Cuneyt"
+      ],
+      "doi": "10.52202/085713-4521",
+      "snapshot": {
+        "checked_at": "2026-10-25",
+        "status": "pdf",
+        "path": "publications/files/process-and-temporal-models/mint.pdf",
+        "pages": 35,
+        "bytes": 1293720,
+        "sha256": "6676346d493a4baa3425f3882a61695ad0078fd84f6b32f5c41f0e9362c5257c",
+        "download_url": "https://proceedings.neurips.cc/paper_files/paper/2025/file/c5548168cb7324f714365a971dfe76d1-Paper-Datasets_and_Benchmarks_Track.pdf"
+      }
+    },
+    {
+      "id": "graph-transfer",
+      "title": "When Do Graph Foundation Models Transfer? A Data-Centric Theory",
+      "year": 2026,
+      "category": "process-and-temporal-models",
+      "source_url": "https://proceedings.mlr.press/v306/zhu26e.html",
+      "summary_pl": "Teoria przesunięcia reprezentacji między domenami grafowymi.",
+      "download_urls": [
+        "https://raw.githubusercontent.com/mlresearch/v306/main/assets/zhu26e/zhu26e.pdf"
+      ],
+      "verification": "fulltext_title_verified",
+      "notes": [],
+      "authors": [
+        "Jiajun Zhu",
+        "Ying Chen",
+        "Peihao Wang",
+        "Yixuan He",
+        "Pan Li",
+        "Aditya Akella",
+        "Zhangyang Wang"
+      ],
+      "snapshot": {
+        "checked_at": "2026-10-25",
+        "status": "pdf",
+        "path": "publications/files/process-and-temporal-models/graph-transfer.pdf",
+        "pages": 21,
+        "bytes": 1562328,
+        "sha256": "b78576a0a8da391d3e6c0ad5a9269b0615daa162ea1211eb3a7d3af5488607fc",
+        "download_url": "https://raw.githubusercontent.com/mlresearch/v306/main/assets/zhu26e/zhu26e.pdf"
+      }
+    },
+    {
+      "id": "process-incontext",
+      "title": "An In-Context Foundation Model for Predictive Process Monitoring on Event Logs",
+      "year": 2026,
+      "category": "process-and-temporal-models",
+      "source_url": "https://publications.rwth-aachen.de/record/1029172/",
+      "summary_pl": "In-context learning dla monitorowania procesów; porównanie transferu między logami.",
+      "download_urls": [
+        "https://publications.rwth-aachen.de/record/1029172/files/1029172.pdf",
+        "https://www.alessandroberti.it/new_papers/2025_Berti_ICL_FM.pdf"
+      ],
+      "verification": "fulltext_title_verified",
+      "notes": [
+        "Pobrano publiczną kopię autorską z serwera Alessandro Bertiego, bez końcowej paginacji wydawcy."
+      ],
+      "authors": [
+        "Alessandro Berti",
+        "Wil M. P. van der Aalst"
+      ],
+      "snapshot": {
+        "checked_at": "2026-10-25",
+        "status": "pdf",
+        "path": "publications/files/process-and-temporal-models/process-incontext.pdf",
+        "pages": 26,
+        "bytes": 3163773,
+        "sha256": "56743ee5c482f39c2ec664b0af7a004ae091dfa146263d001ea6cba267fb035b",
+        "download_url": "https://www.alessandroberti.it/new_papers/2025_Berti_ICL_FM.pdf"
+      }
+    },
+    {
+      "id": "agentic-twins",
+      "title": "Agentic digital twins: bridging model-based and AI-driven decision-making support for a new era of supply chain and operations management",
+      "year": 2026,
+      "category": "process-and-temporal-models",
+      "source_url": "https://www.tandfonline.com/doi/full/10.1080/00207543.2026.2630277",
+      "summary_pl": "Łączenie modeli, symulacji i AI we wspomaganiu decyzji.",
+      "download_urls": [],
+      "verification": "metadata_verified",
+      "notes": [
+        "Pełny tekst u wydawcy wymaga dostępu subskrypcyjnego według rekordu RePEc; nie znaleziono otwartej kopii autorskiej."
+      ],
+      "doi": "10.1080/00207543.2026.2630277",
+      "authors": [
+        "Dmitry Ivanov"
+      ],
+      "snapshot": {
+        "checked_at": "2026-10-25",
+        "status": "unavailable",
+        "reason": "Dostęp wydawcy zablokowany; rekord bibliograficzny wskazuje dostęp subskrypcyjny. Nie znaleziono kopii otwartej."
+      }
+    },
+    {
+      "id": "object-world-model",
+      "title": "Object-Centric World Models for Causality-Aware Reinforcement Learning",
+      "year": 2026,
+      "category": "process-and-temporal-models",
+      "source_url": "https://ojs.aaai.org/index.php/AAAI/article/view/39642",
+      "summary_pl": "Reprezentacja obiektów i zależności w modelach świata dla RL.",
+      "download_urls": [
+        "https://ojs.aaai.org/index.php/AAAI/article/view/39642/43603"
+      ],
+      "verification": "fulltext_title_verified",
+      "notes": [],
+      "snapshot": {
+        "checked_at": "2026-10-25",
+        "status": "pdf",
+        "path": "publications/files/process-and-temporal-models/object-world-model.pdf",
+        "pages": 9,
+        "bytes": 3172437,
+        "sha256": "e7fa4159929505781e012333a86ab646e9e942486aa340c172b5b552eaf15a16",
+        "download_url": "https://ojs.aaai.org/index.php/AAAI/article/download/39642/43603"
+      }
+    },
+    {
+      "id": "memexplainer",
+      "title": "Towards the Explainability of Temporal Graph Networks via Memory Backtracking and Topological Attribution",
+      "year": 2026,
+      "category": "process-and-temporal-models",
+      "source_url": "https://proceedings.mlr.press/v306/liu26gd.html",
+      "summary_pl": "Atrybucja topologii i pamięci TGN; ważny konkurent dla wyjaśnień trajektoryjnych.",
+      "download_urls": [
+        "https://raw.githubusercontent.com/mlresearch/v306/main/assets/liu26gd/liu26gd.pdf"
+      ],
+      "verification": "fulltext_title_verified",
+      "notes": [],
+      "authors": [
+        "Yazheng Liu",
+        "Xi Zhang",
+        "Sihong Xie",
+        "Hui Xiong"
+      ],
+      "snapshot": {
+        "checked_at": "2026-10-25",
+        "status": "pdf",
+        "path": "publications/files/process-and-temporal-models/memexplainer.pdf",
+        "pages": 30,
+        "bytes": 5074974,
+        "sha256": "eb48db2e2134ce157aa2d92bbdfd8fa66f127e1faea54a27c52029867a3f7b83",
+        "download_url": "https://raw.githubusercontent.com/mlresearch/v306/main/assets/liu26gd/liu26gd.pdf"
+      }
+    },
+    {
+      "id": "supply-resilience",
+      "title": "Supply Chain Resilience Prediction and Industrial Economic Shock Transmission Path Analysis Integrating Knowledge Graphs and Deep Reinforcement Learning",
+      "year": 2026,
+      "category": "economics-and-applications",
+      "source_url": "https://www.nature.com/articles/s41598-026-72753-y",
+      "summary_pl": "Knowledge graph i RL w analizie odporności oraz ścieżek szoków.",
+      "download_urls": [
+        "https://www.nature.com/articles/s41598-026-72753-y_reference.pdf"
+      ],
+      "verification": "fulltext_title_verified",
+      "notes": [
+        "Pobrano wersję Article in Press od wydawcy. Wyników autorów nie replikowano."
+      ],
+      "snapshot": {
+        "checked_at": "2026-10-25",
+        "status": "pdf",
+        "path": "publications/files/economics-and-applications/supply-resilience.pdf",
+        "pages": 26,
+        "bytes": 4118120,
+        "sha256": "68361316a33b3f37e9327ab5cfa1b95e48ac2589ac074160f5553463381ed77b",
+        "download_url": "https://www.nature.com/articles/s41598-026-72753-y_reference.pdf"
+      }
+    },
+    {
+      "id": "supplier-recommendation",
+      "title": "Using Knowledge Graph-Enhanced Relational Graph Convolutional Network for Potential Supplier Recommendation",
+      "year": 2026,
+      "category": "economics-and-applications",
+      "source_url": "https://www.sciencedirect.com/science/article/pii/S1568494626019836",
+      "summary_pl": "Rekomendacje alternatywnych dostawców na podstawie grafu relacji.",
+      "download_urls": [],
+      "verification": "metadata_verified",
+      "notes": [],
+      "doi": "10.1016/j.asoc.2026.116535",
+      "snapshot": {
+        "checked_at": "2026-10-25",
+        "status": "unavailable",
+        "reason": "Strona wydawcy dostępna bibliograficznie; nie znaleziono publicznego pełnego PDF."
+      }
+    },
+    {
+      "id": "imf-portwatch",
+      "title": "Nowcasting Country-Level Trade Estimates Using IMF PortWatch",
+      "year": 2026,
+      "category": "economics-and-applications",
+      "source_url": "https://www.imf.org/en/publications/wp/issues/2026/05/19/nowcasting-country-level-trade-estimates-using-imf-portwatch-576176",
+      "summary_pl": "Nowcasting handlu krajowego; przykład wąskiego zastosowania danych transportowych.",
+      "download_urls": [
+        "https://www.imf.org/-/media/files/publications/wp/2026/english/wpiea2026099-source-pdf.pdf",
+        "https://papers.ssrn.com/sol3/Delivery.cfm/wpi2026099.pdf?abstractid=6838150&mirid=1&type=2"
+      ],
+      "verification": "fulltext_title_verified",
+      "notes": [],
+      "snapshot": {
+        "checked_at": "2026-10-25",
+        "status": "pdf",
+        "path": "publications/files/economics-and-applications/imf-portwatch.pdf",
+        "pages": 39,
+        "bytes": 2252262,
+        "sha256": "54444eecd8eb61916e4c33aafd779af8baf32c61a44b3f99a370a0f6389b6c37",
+        "download_url": "https://www.imf.org/-/media/files/publications/wp/2026/english/wpiea2026099-source-pdf.pdf"
+      }
+    },
+    {
+      "id": "kronos",
+      "title": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "year": 2026,
+      "category": "process-and-temporal-models",
+      "source_url": "https://ojs.aaai.org/index.php/AAAI/article/view/39730",
+      "summary_pl": "Tokenizacja i modelowanie szeregów finansowych; potencjalny baseline rynkowy.",
+      "download_urls": [
+        "https://ojs.aaai.org/index.php/AAAI/article/view/39730/43691"
+      ],
+      "verification": "fulltext_title_verified",
+      "notes": [],
+      "snapshot": {
+        "checked_at": "2026-10-25",
+        "status": "pdf",
+        "path": "publications/files/process-and-temporal-models/kronos.pdf",
+        "pages": 8,
+        "bytes": 3401096,
+        "sha256": "3758294c7fc1373b4dbf10aefddb6e0dcaf53b6e5a2094422ccf47970e3574cd",
+        "download_url": "https://ojs.aaai.org/index.php/AAAI/article/download/39730/43691"
+      }
+    },
+    {
+      "id": "tgm",
+      "title": "TGM: A Modular and Efficient Library for Machine Learning on Temporal Graphs",
+      "year": 2026,
+      "category": "process-and-temporal-models",
+      "source_url": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/d978cd64d598bbaf6a2fff1d6864d601-Abstract-Conference.html",
+      "summary_pl": "Biblioteka do eksperymentów na grafach temporalnych.",
+      "download_urls": [
+        "https://proceedings.iclr.cc/paper_files/paper/2026/file/d978cd64d598bbaf6a2fff1d6864d601-Paper-Conference.pdf"
+      ],
+      "verification": "fulltext_title_verified",
+      "notes": [],
+      "authors": [
+        "Chmura, Jacob",
+        "Huang, Shenyang(Andy)",
+        "Ngo, Tran Gia Bao",
+        "Parviz, Ali",
+        "Poursafaei, Farimah",
+        "Leskovec, Jure",
+        "Bronstein, Michael",
+        "Rabusseau, Guillaume",
+        "Fey, Matthias",
+        "Rabbany, Reihaneh"
+      ],
+      "snapshot": {
+        "checked_at": "2026-10-25",
+        "status": "pdf",
+        "path": "publications/files/process-and-temporal-models/tgm.pdf",
+        "pages": 50,
+        "bytes": 1728660,
+        "sha256": "09e34e05c91eab1fc0f698dbef35e8ba8d2b2f85fcf273a9d811535ad94af4ee",
+        "download_url": "https://proceedings.iclr.cc/paper_files/paper/2026/file/d978cd64d598bbaf6a2fff1d6864d601-Paper-Conference.pdf"
+      }
+    }
+  ],
+  "verification_legend": {
+    "fulltext_title_verified": "Pobrany PDF daje się odczytać; sprawdzono tytuł i kontekst wersji. Nie oznacza recenzji metod ani replikacji wyników.",
+    "metadata_verified": "Potwierdzono bibliograficzną tożsamość publikacji; brak lokalnego pełnego tekstu.",
+    "landing_page_verified": "Sprawdzono stronę publikacji lub książki. Szczegółowe ograniczenia są w notes i snapshot."
+  }
+}
